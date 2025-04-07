@@ -1,9 +1,9 @@
 # DataPortfolio
 
-Welcome to my data science portfolio! This repository is a collection of projects showcasing data analysis and modeling.
+Welcome to my data science portfolio!
 
 ## Projects
 
-- **Credit Card Fraud Detection:** A supervised machine learning project to development a predictive model to detect fraudulent credit card transactions.
+- **Credit Card Fraud Detection:** A supervised machine learning project to develop a predictive model to detect fraudulent credit card transactions.
 - **Unsupervised Learning on Country Data:** An unsupervised machine learning project to categorize countries using socio-economic and health factors.
 - **Brain Tumor Classification:** A deep learning project to develop a model to automatically detect and classify brain tumors from MRI images.
