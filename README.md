@@ -4,6 +4,7 @@ Welcome to my data science portfolio!
 
 ## Projects
 
-- **Credit Card Fraud Detection:** A supervised machine learning project to develop a predictive model to detect fraudulent credit card transactions.
+- **Car Prices:** A supervised machine learning project on regression to develop a predictive model to accurately predict the sale price based on the car's features.
+- **Credit Card Fraud Detection:** A supervised machine learning project on classification to develop a predictive model to detect fraudulent credit card transactions.
 - **Unsupervised Learning on Country Data:** An unsupervised machine learning project to categorize countries using socio-economic and health factors.
 - **Brain Tumor Classification:** A deep learning project to develop a model to automatically detect and classify brain tumors from MRI images.
