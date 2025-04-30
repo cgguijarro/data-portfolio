@@ -13,3 +13,5 @@ Welcome to my data science portfolio!
 - [**Brain Tumor Classification**](https://github.com/cgguijarro/data-portfolio/blob/main/Brain_Tumor_Class/Brain_Tumor_Class.ipynb): A deep learning project to develop a model to automatically detect and classify brain tumors from MRI images.
 
 - [**Weather Forecast**](https://github.com/cgguijarro/data-portfolio/blob/main/Weather_Forecast/Weather_Forecast.ipynb): A time‑series analysis project to develop a predictive model that forecasts future weather temperature based on historical meteorological data.
+
+- [**Satellite Remote Sensing**](https://github.com/cgguijarro/data-portfolio/blob/main/Remote_Sensing/Remote_Sensing.ipynb): An end-to-end geospatial analysis project using Sentinel-2 data accessing imagery via STAC, computing key spectral indices, and performing unsupervised segmentation.
